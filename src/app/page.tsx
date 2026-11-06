@@ -1,3 +1,4 @@
+"use client";
 import {
   ArrowRight, ArrowUpRight, BadgeCheck, Boxes, Building2, Cable, Check,
   ChevronRight, Cpu, Factory, Globe2, Headphones, Lightbulb, PackageSearch,
